@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681371428 source:d:\gcc\gcc\64\gauss simd parallel sanchong sse\main.cpp
+	<iostream>
+	<Windows.h>
+	<emmintrin.h>
+	<fstream>
+
