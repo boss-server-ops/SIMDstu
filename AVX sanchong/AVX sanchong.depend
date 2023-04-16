@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681391096 source:d:\gcc\gcc\64\avx sanchong\main.cpp
+	<iostream>
+	<Windows.h>
+	<immintrin.h>
+	<fstream>
+

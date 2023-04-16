@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681659379 source:d:\gcc\gcc\64\sse special\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	<Windows.h>
+	<emmintrin.h>
+
